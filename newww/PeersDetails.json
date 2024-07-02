@@ -1,0 +1,750 @@
+[
+  {
+    "ticker": "AAPL",
+    "marketCap": 3312441622528,
+    "peRatio": 33.647663,
+    "psRatio": 8.679879,
+    "dividendYield": 0.0047,
+    "revenue": 381623009280,
+    "peers": [
+      {
+        "ticker": "DELL",
+        "marketCap": 99806167040,
+        "peRatio": 28.716328,
+        "psRatio": 1.1120837,
+        "dividendYield": 0.0128999995,
+        "revenue": 89746997248
+      },
+      {
+        "ticker": "SMCI",
+        "marketCap": 47675109376,
+        "peRatio": 45.307335,
+        "psRatio": 4.03359,
+        "revenue": 11819523072
+      },
+      {
+        "ticker": "HPQ",
+        "marketCap": 34048993280,
+        "peRatio": 11.755067,
+        "psRatio": 0.6424581,
+        "dividendYield": 0.0315,
+        "revenue": 52998000640
+      },
+      {
+        "ticker": "HPE",
+        "marketCap": 27273576448,
+        "peRatio": 15.317518,
+        "psRatio": 0.9633221,
+        "dividendYield": 0.024600001,
+        "revenue": 28312000512
+      },
+      {
+        "ticker": "NTAP",
+        "marketCap": 26876712960,
+        "peRatio": 28.267317,
+        "psRatio": 4.287925,
+        "dividendYield": 0.015700001,
+        "revenue": 6268000256
+      },
+      {
+        "ticker": "WDC",
+        "marketCap": 24802838528,
+        "psRatio": 2.0823474,
+        "revenue": 11911000064
+      },
+      {
+        "ticker": "PSTG",
+        "marketCap": 21182488576,
+        "peRatio": 217.09998,
+        "psRatio": 7.2177114,
+        "revenue": 2934792960
+      },
+      {
+        "ticker": "IONQ",
+        "marketCap": 1461154048,
+        "psRatio": 57.664234,
+        "revenue": 25339000
+      }
+    ]
+  },
+  {
+    "ticker": "MSFT",
+    "marketCap": 3375011987456,
+    "peRatio": 39.384216,
+    "psRatio": 14.265597,
+    "dividendYield": 0.0067000003,
+    "revenue": 236583993344,
+    "peers": [
+      {
+        "ticker": "ORCL",
+        "marketCap": 396513148928,
+        "peRatio": 38.781673,
+        "psRatio": 7.4868894,
+        "dividendYield": 0.0113,
+        "revenue": 52961001472
+      },
+      {
+        "ticker": "NOW",
+        "marketCap": 161635631104,
+        "peRatio": 84.0812,
+        "psRatio": 17.05377,
+        "revenue": 9477999616
+      },
+      {
+        "ticker": "PANW",
+        "marketCap": 110347804672,
+        "peRatio": 49.247112,
+        "psRatio": 14.162951,
+        "revenue": 7791300096
+      },
+      {
+        "ticker": "CRWD",
+        "marketCap": 94618746880,
+        "peRatio": 719.99994,
+        "psRatio": 28.811945,
+        "revenue": 3284011008
+      },
+      {
+        "ticker": "FTNT",
+        "marketCap": 45847736320,
+        "peRatio": 38.97078,
+        "psRatio": 8.49693,
+        "revenue": 5395800064
+      },
+      {
+        "ticker": "ZS",
+        "marketCap": 30028709888,
+        "psRatio": 14.793131,
+        "revenue": 2029908992
+      },
+      {
+        "ticker": "GEN",
+        "marketCap": 15653649408,
+        "peRatio": 26.041668,
+        "psRatio": 4.106414,
+        "dividendYield": 0.02,
+        "revenue": 3812000000
+      }
+    ]
+  },
+  {
+    "ticker": "GOOGL",
+    "marketCap": 2267395915776,
+    "peRatio": 28.054447,
+    "psRatio": 7.126904,
+    "dividendYield": 0.0044,
+    "revenue": 318145986560,
+    "peers": [
+      {
+        "ticker": "META",
+        "marketCap": 1270205382656,
+        "peRatio": 28.779598,
+        "psRatio": 8.900481,
+        "dividendYield": 0.004,
+        "revenue": 142711996416
+      },
+      {
+        "ticker": "PINS",
+        "marketCap": 29301159936,
+        "peRatio": 194.95454,
+        "psRatio": 9.178201,
+        "revenue": 3192473088
+      },
+      {
+        "ticker": "SNAP",
+        "marketCap": 25805355008,
+        "psRatio": 5.362397,
+        "revenue": 4812279808
+      },
+      {
+        "ticker": "RDDT",
+        "marketCap": 10621216768,
+        "psRatio": 12.025126,
+        "revenue": 883251968
+      },
+      {
+        "ticker": "MTCH",
+        "marketCap": 7813295616,
+        "peRatio": 12.899123,
+        "psRatio": 2.2732716,
+        "revenue": 3437027072
+      },
+      {
+        "ticker": "ZI",
+        "marketCap": 11240145920,
+        "peRatio": 63.175,
+        "psRatio": 9.000037,
+        "revenue": 1248899968
+      },
+      {
+        "ticker": "IAC",
+        "marketCap": 3963777024,
+        "psRatio": 0.9413707,
+        "revenue": 4210643968
+      }
+    ]
+  },
+  {
+    "ticker": "AMZN",
+    "marketCap": 2049579810816,
+    "peRatio": 55.013966,
+    "psRatio": 3.4695125,
+    "revenue": 590739996672,
+    "peers": [
+      {
+        "ticker": "CPNG",
+        "marketCap": 37708709888,
+        "peRatio": 30.128572,
+        "psRatio": 1.4674934,
+        "revenue": 25696000000
+      },
+      {
+        "ticker": "EBAY",
+        "marketCap": 26452889600,
+        "peRatio": 10.517963,
+        "psRatio": 2.6041434,
+        "dividendYield": 0.0201,
+        "revenue": 10158000128
+      },
+      {
+        "ticker": "DDS",
+        "marketCap": 6946562560,
+        "peRatio": 9.736291,
+        "psRatio": 1.0165718,
+        "dividendYield": 0.0023,
+        "revenue": 6833321984
+      },
+      {
+        "ticker": "ETSY",
+        "marketCap": 6689152512,
+        "peRatio": 26.121004,
+        "psRatio": 2.4293678,
+        "revenue": 2753454080
+      },
+      {
+        "ticker": "OLLI",
+        "marketCap": 5959696384,
+        "peRatio": 30.71609,
+        "psRatio": 2.7689564,
+        "revenue": 2152325888
+      },
+      {
+        "ticker": "M",
+        "marketCap": 5063020032,
+        "peRatio": 610.56665,
+        "psRatio": 0.21369265,
+        "dividendYield": 0.036199998,
+        "revenue": 23693000704
+      },
+      {
+        "ticker": "JWN",
+        "marketCap": 3518453248,
+        "peRatio": 11.621621,
+        "psRatio": 0.23698077,
+        "dividendYield": 0.0358,
+        "revenue": 14846999552
+      },
+      {
+        "ticker": "KSS",
+        "marketCap": 2435967488,
+        "peRatio": 8.832662,
+        "psRatio": 0.14091326,
+        "dividendYield": 0.087,
+        "revenue": 17287000064
+      },
+      {
+        "ticker": "SVV",
+        "marketCap": 1949617792,
+        "peRatio": 30.897438,
+        "psRatio": 1.2922184,
+        "revenue": 1508737024
+      }
+    ]
+  },
+  {
+    "ticker": "TSLA",
+    "marketCap": 670242242560,
+    "peRatio": 53.88718,
+    "psRatio": 7.07417,
+    "revenue": 94745001984,
+    "peers": [
+      {
+        "ticker": "GM",
+        "marketCap": 52851376128,
+        "peRatio": 5.6587305,
+        "psRatio": 0.30223066,
+        "dividendYield": 0.010299999,
+        "revenue": 174871003136
+      },
+      {
+        "ticker": "F",
+        "marketCap": 50206814208,
+        "peRatio": 13.025773,
+        "psRatio": 0.28286484,
+        "dividendYield": 0.0478,
+        "revenue": 177493999616
+      },
+      {
+        "ticker": "RIVN",
+        "marketCap": 14148473856,
+        "psRatio": 2.8427715,
+        "revenue": 4976999936
+      },
+      {
+        "ticker": "LCID",
+        "marketCap": 6125483520,
+        "psRatio": 9.902508,
+        "revenue": 618579008
+      },
+      {
+        "ticker": "THO",
+        "marketCap": 4883558400,
+        "peRatio": 18.582996,
+        "psRatio": 0.47656992,
+        "dividendYield": 0.020499999,
+        "revenue": 10247307264
+      },
+      {
+        "ticker": "NWTN",
+        "marketCap": 386209344,
+        "psRatio": 662.4517,
+        "revenue": 583000
+      },
+      {
+        "ticker": "WGO",
+        "marketCap": 1533167232,
+        "peRatio": 19.757462,
+        "psRatio": 0.5070668,
+        "dividendYield": 0.0229,
+        "revenue": 3023600128
+      },
+      {
+        "ticker": "FFIE",
+        "marketCap": 201141024,
+        "psRatio": 256.55743,
+        "revenue": 784000
+      },
+      {
+        "ticker": "GOEV",
+        "marketCap": 141098960,
+        "psRatio": 159.2539,
+        "revenue": 886000
+      }
+    ]
+  },
+  {
+    "ticker": "NVDA",
+    "marketCap": 3060271939584,
+    "peRatio": 73.18229,
+    "psRatio": 38.36177,
+    "dividendYield": 0.00029999999,
+    "revenue": 79773999104,
+    "peers": [
+      {
+        "ticker": "AVGO",
+        "marketCap": 758731440128,
+        "peRatio": 70.04598,
+        "psRatio": 17.802658,
+        "dividendYield": 0.013099999,
+        "revenue": 42618998784
+      },
+      {
+        "ticker": "AMD",
+        "marketCap": 254124359680,
+        "peRatio": 224.60716,
+        "psRatio": 11.145805,
+        "revenue": 22799998976
+      },
+      {
+        "ticker": "QCOM",
+        "marketCap": 223278120960,
+        "peRatio": 26.64048,
+        "psRatio": 6.132835,
+        "dividendYield": 0.0171,
+        "revenue": 36407001088
+      },
+      {
+        "ticker": "TXN",
+        "marketCap": 176833806336,
+        "peRatio": 30.299534,
+        "psRatio": 10.525195,
+        "dividendYield": 0.026800001,
+        "revenue": 16801000448
+      },
+      {
+        "ticker": "MU",
+        "marketCap": 145690476544,
+        "psRatio": 6.817204,
+        "dividendYield": 0.0034999999,
+        "revenue": 21371000832
+      },
+      {
+        "ticker": "INTC",
+        "marketCap": 131388284928,
+        "peRatio": 31.819586,
+        "psRatio": 2.378628,
+        "dividendYield": 0.0161,
+        "revenue": 55237001216
+      },
+      {
+        "ticker": "ADI",
+        "marketCap": 112085499904,
+        "peRatio": 52.8993,
+        "psRatio": 10.710795,
+        "dividendYield": 0.0161,
+        "revenue": 10464721920
+      },
+      {
+        "ticker": "MRVL",
+        "marketCap": 61098377216,
+        "psRatio": 11.426879,
+        "dividendYield": 0.0034,
+        "revenue": 5346899968
+      }
+    ]
+  },
+  {
+    "ticker": "META",
+    "marketCap": 1270205382656,
+    "peRatio": 28.779598,
+    "psRatio": 8.900481,
+    "dividendYield": 0.004,
+    "revenue": 142711996416,
+    "peers": [
+      {
+        "ticker": "GOOGL",
+        "marketCap": 2267458043904,
+        "peRatio": 28.055214,
+        "psRatio": 7.1270995,
+        "dividendYield": 0.0044,
+        "revenue": 318145986560
+      },
+      {
+        "ticker": "PINS",
+        "marketCap": 29301159936,
+        "peRatio": 194.95454,
+        "psRatio": 9.178201,
+        "revenue": 3192473088
+      },
+      {
+        "ticker": "SNAP",
+        "marketCap": 25805355008,
+        "psRatio": 5.362397,
+        "revenue": 4812279808
+      },
+      {
+        "ticker": "RDDT",
+        "marketCap": 10621216768,
+        "psRatio": 12.025126,
+        "revenue": 883251968
+      },
+      {
+        "ticker": "MTCH",
+        "marketCap": 7813295616,
+        "peRatio": 12.899123,
+        "psRatio": 2.2732716,
+        "revenue": 3437027072
+      },
+      {
+        "ticker": "ZI",
+        "marketCap": 11240145920,
+        "peRatio": 63.175,
+        "psRatio": 9.000037,
+        "revenue": 1248899968
+      },
+      {
+        "ticker": "IAC",
+        "marketCap": 3963777024,
+        "psRatio": 0.9413707,
+        "revenue": 4210643968
+      }
+    ]
+  },
+  {
+    "ticker": "NFLX",
+    "marketCap": 289421099008,
+    "peRatio": 46.482006,
+    "psRatio": 8.285216,
+    "revenue": 34932232192,
+    "peers": [
+      {
+        "ticker": "DIS",
+        "marketCap": 179378012160,
+        "peRatio": 106.95108,
+        "psRatio": 2.0108967,
+        "dividendYield": 0.0091,
+        "revenue": 89202999296
+      },
+      {
+        "ticker": "LYV",
+        "marketCap": 21897979904,
+        "peRatio": 86.80275,
+        "psRatio": 0.9349635,
+        "revenue": 23421212672
+      },
+      {
+        "ticker": "EDR",
+        "marketCap": 8169471488,
+        "peRatio": 41.55385,
+        "psRatio": 1.3147719,
+        "dividendYield": 0.0089,
+        "revenue": 6213603840
+      },
+      {
+        "ticker": "TKO",
+        "marketCap": 8674185216,
+        "psRatio": 4.3415446,
+        "revenue": 1997949056
+      },
+      {
+        "ticker": "WBD",
+        "marketCap": 17605476352,
+        "psRatio": 0.43385684,
+        "revenue": 40578998272
+      },
+      {
+        "ticker": "WMG",
+        "marketCap": 15664309248,
+        "peRatio": 29.945545,
+        "psRatio": 2.4506116,
+        "dividendYield": 0.0222,
+        "revenue": 6392000000
+      },
+      {
+        "ticker": "ROKU",
+        "marketCap": 8935532544,
+        "psRatio": 2.464908,
+        "revenue": 3625097984
+      },
+      {
+        "ticker": "MSGS",
+        "marketCap": 4485785600,
+        "peRatio": 187.33,
+        "psRatio": 4.8399854,
+        "revenue": 926817984
+      }
+    ]
+  },
+  {
+    "ticker": "BRK.A",
+    "marketCap": null,
+    "peRatio": null,
+    "psRatio": null,
+    "dividendYield": null,
+    "eps": null,
+    "revenue": null,
+    "netIncome": null,
+    "peers": [
+      {
+        "ticker": "CODI",
+        "marketCap": 1619172992,
+        "psRatio": 0.77131647,
+        "dividendYield": 0.045700002,
+        "revenue": 2099233024
+      },
+      {
+        "ticker": "CNNE",
+        "marketCap": 1121742848,
+        "psRatio": 2.1309705,
+        "dividendYield": 0.026500002,
+        "revenue": 526400000
+      },
+      {
+        "ticker": "RAFI",
+        "marketCap": 20897362,
+        "peRatio": 10.093023,
+        "dividendYield": 0.067
+      },
+      {
+        "ticker": "QEDN",
+        "marketCap": 1523250
+      },
+      {
+        "ticker": "TMXN",
+        "marketCap": 266844,
+        "peRatio": null,
+        "psRatio": 1.0299755,
+        "revenue": 259078
+      },
+      {
+        "ticker": "ACGX",
+        "marketCap": 890396,
+        "peRatio": 0.54027027,
+        "psRatio": 35.9132,
+        "revenue": 24793
+      },
+      {
+        "ticker": "AZIL",
+        "marketCap": 138573
+      },
+      {
+        "ticker": "PVNO",
+        "marketCap": 26784
+      },
+      {
+        "ticker": "JMON",
+        "marketCap": 3745
+      }
+    ]
+  },
+  {
+    "ticker": "JPM",
+    "marketCap": 591592751104,
+    "peRatio": 12.43271,
+    "psRatio": 3.9439256,
+    "dividendYield": 0.0227,
+    "revenue": 150000992256,
+    "peers": [
+      {
+        "ticker": "BAC",
+        "marketCap": 312071847936,
+        "peRatio": 13.760344,
+        "psRatio": 3.3427079,
+        "dividendYield": 0.0241,
+        "revenue": 93358997504
+      },
+      {
+        "ticker": "WFC",
+        "marketCap": 210172805120,
+        "peRatio": 12.559375,
+        "psRatio": 2.7083776,
+        "dividendYield": 0.023599999,
+        "revenue": 77600997376
+      },
+      {
+        "ticker": "C",
+        "marketCap": 120779104256,
+        "peRatio": 18.460642,
+        "psRatio": 1.7342107,
+        "dividendYield": 0.0334,
+        "revenue": 69645000704
+      },
+      {
+        "ticker": "PNC",
+        "marketCap": 62547038208,
+        "peRatio": 13.198161,
+        "psRatio": 3.0705469,
+        "dividendYield": 0.0399,
+        "revenue": 20369999872
+      },
+      {
+        "ticker": "USB",
+        "marketCap": 61614764032,
+        "peRatio": 13.117941,
+        "psRatio": 2.449307,
+        "dividendYield": 0.0494,
+        "revenue": 25155999744
+      },
+      {
+        "ticker": "FITB",
+        "marketCap": 24853807104,
+        "peRatio": 11.5796175,
+        "psRatio": 3.051419,
+        "dividendYield": 0.038399998,
+        "revenue": 8144999936
+      },
+      {
+        "ticker": "FCNCO",
+        "peRatio": 0.3784715,
+        "dividendYield": 0.0644,
+        "revenue": 9484000256
+      },
+      {
+        "ticker": "FCNCA",
+        "marketCap": 24607481856,
+        "peRatio": 9.472107,
+        "psRatio": 2.5946312,
+        "dividendYield": 0.0039,
+        "revenue": 9484000256
+      },
+      {
+        "ticker": "KEY",
+        "marketCap": 13497040896,
+        "peRatio": 18.352564,
+        "psRatio": 2.348537,
+        "dividendYield": 0.0577,
+        "revenue": 5746999808
+      }
+    ]
+  },
+  {
+    "ticker": "WFC",
+    "marketCap": 210172805120,
+    "peRatio": 12.559375,
+    "psRatio": 2.7083776,
+    "dividendYield": 0.023599999,
+    "revenue": 77600997376,
+    "peers": [
+      {
+        "ticker": "BAC",
+        "marketCap": 312071847936,
+        "peRatio": 13.760344,
+        "psRatio": 3.3427079,
+        "dividendYield": 0.0241,
+        "revenue": 93358997504
+      },
+      {
+        "ticker": "JPM",
+        "marketCap": 591592751104,
+        "peRatio": 12.43271,
+        "psRatio": 3.9439256,
+        "dividendYield": 0.0227,
+        "revenue": 150000992256
+      },
+      {
+        "ticker": "C",
+        "marketCap": 120779104256,
+        "peRatio": 18.460642,
+        "psRatio": 1.7342107,
+        "dividendYield": 0.0334,
+        "revenue": 69645000704
+      },
+      {
+        "ticker": "PNC",
+        "marketCap": 62547038208,
+        "peRatio": 13.198161,
+        "psRatio": 3.0705469,
+        "dividendYield": 0.0399,
+        "revenue": 20369999872
+      },
+      {
+        "ticker": "USB",
+        "marketCap": 61614764032,
+        "peRatio": 13.117941,
+        "psRatio": 2.449307,
+        "dividendYield": 0.0494,
+        "revenue": 25155999744
+      },
+      {
+        "ticker": "FITB",
+        "marketCap": 24853807104,
+        "peRatio": 11.5796175,
+        "psRatio": 3.051419,
+        "dividendYield": 0.038399998,
+        "revenue": 8144999936
+      },
+      {
+        "ticker": "FCNCO",
+        "peRatio": 0.3784715,
+        "dividendYield": 0.0644,
+        "revenue": 9484000256
+      },
+      {
+        "ticker": "FCNCA",
+        "marketCap": 24607481856,
+        "peRatio": 9.472107,
+        "psRatio": 2.5946312,
+        "dividendYield": 0.0039,
+        "revenue": 9484000256
+      },
+      {
+        "ticker": "KEY",
+        "marketCap": 13497040896,
+        "peRatio": 18.352564,
+        "psRatio": 2.348537,
+        "dividendYield": 0.0577,
+        "revenue": 5746999808
+      }
+    ]
+  }
+]
